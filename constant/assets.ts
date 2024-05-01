@@ -28,7 +28,7 @@ export const assets = {
       suitcase: require("@images/home/myLatestProject/suitcase.webp"),
       projects: {
         portfolioWebsite: require("@images/home/myLatestProject/projects/portfolio-website.webp"),
-        gym: require("@images/home/myLatestProject/projects/Gym.png"),
+        gym: require("@images/home/myLatestProject/projects/gym.png"),
         runner: require("@images/home/myLatestProject/projects/runner.png"),
         xr_3d: require("@images/home/myLatestProject/projects/xr.webp"),
 
